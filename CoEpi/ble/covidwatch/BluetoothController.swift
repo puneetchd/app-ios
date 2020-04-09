@@ -916,7 +916,7 @@ extension BluetoothController: CBPeripheralDelegate {
 
             // original code
             //let identifier = try UUID(dataRepresentation: value)
-            //self.logNewContactEvent(with: identifier)z
+            //self.logNewContactEvent(with: identifier)
             /****************************************************************/
 
         }
